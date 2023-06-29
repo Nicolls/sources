@@ -1,0 +1,16 @@
+{
+  "name":"ben",
+  "age": 33,
+  "country":"china",
+  "language":["普通话","英语","日语"],
+  "child":{
+      "name": "yalida",
+      "age": 10,
+      "school": "古城小学"
+  },
+  "company": {
+      "companyName": "niu bi wan sui",
+      "tech": ["like","week","fly","cry"],
+      "workers": 35
+  }
+}
